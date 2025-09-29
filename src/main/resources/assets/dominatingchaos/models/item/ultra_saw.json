@@ -1,0 +1,28 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "dominatingchaos:items/ultra_saw"
+  },
+    "display": {
+		"thirdperson_righthand": {
+			"rotation": [180, -90, -126],
+			"translation": [ 0.00, 11, -3 ],
+            "scale": [ 1.75, 2, 1.50 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [180, 90, 126],
+			"translation": [ 0.00, 11, -3 ],
+            "scale": [ 1.75, 2, 1.50 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 110],
+			"translation": [ 0.00, 3, 1 ],
+            "scale": [ 1.75, 2, 1.50 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -110],
+			"translation": [ 0.00, 3, 1 ],
+            "scale": [ 1.75, 2, 1.50 ]
+		}
+    }
+}

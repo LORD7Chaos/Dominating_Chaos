@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GQG",
+    "QCQ",
+    "GQG"
+  ],
+  "key": {
+    "C": { "item": "dominatingchaos:clearolium" },
+    "Q": { "item": "dominatingchaos:quartz_dust" },
+    "G": { "item": "minecraft:glowstone_dust" }
+  },
+  "result": {
+    "item": "dominatingchaos:dust_of_purification",
+    "count": 4
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SCS",
+    "COC",
+    "SCS"
+  ],
+  "key": {
+    "S": { "item": "dominatingchaos:broke_stone" },
+    "C": { "item": "dominatingchaos:broken_cobblestone" },
+    "O": { "item": "dominatingchaos:stounilit" }
+  },
+  "result": {
+    "item": "dominatingchaos:durable_stone",
+    "count": 1
+  }
+}

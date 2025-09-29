@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "dominatingchaos:emerald_dust" },
+    { "item": "dominatingchaos:diamond_dust" }
+  ],
+  "result": {
+    "item": "dominatingchaos:emeramond_dust",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": { "item": "dominatingchaos:physuriym_nugget" }
+  },
+  "result": {
+    "item": "dominatingchaos:physuriym_ingot",
+    "count": 1
+  }
+}

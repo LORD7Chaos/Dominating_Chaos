@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "dominatingchaos:unusualium_hammer" },
+    { "item":  "minecraft:soul_sand" }
+  ],
+  "result": {
+    "item": "dominatingchaos:weak_soul",
+    "count": 4
+  }
+}

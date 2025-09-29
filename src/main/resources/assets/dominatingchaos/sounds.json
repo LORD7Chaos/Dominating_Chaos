@@ -1,0 +1,56 @@
+{
+  "dominators_hit": {
+    "category": "neutral",
+    "sounds": [
+      "dominatingchaos:dominators_hit"
+    ]
+  },
+  "dominators_ability": {
+    "category": "neutral",
+    "sounds": [
+      "dominatingchaos:dominators_ability"
+    ]
+  },
+  "chaos_ability": {
+    "category": "neutral",
+    "sounds": [
+      "dominatingchaos:chaos_ability"
+    ]
+  },
+  "ultra_saw_shot": {
+    "category": "neutral",
+    "sounds": [
+      "dominatingchaos:ultra_saw_shot"
+    ]
+  },
+  "death_music_1": {
+    "category": "neutral",
+    "sounds": [
+      "dominatingchaos:death_music_1"
+    ]
+  },
+  "death_music_2": {
+    "category": "neutral",
+    "sounds": [
+      "dominatingchaos:death_music_2"
+    ]
+  },
+  "death_music_3": {
+    "category": "neutral",
+    "sounds": [
+      "dominatingchaos:death_music_3"
+    ]
+  },
+  "death_music_4": {
+    "category": "neutral",
+    "sounds": [
+      "dominatingchaos:death_music_4"
+    ]
+  },
+  "death_music_5": {
+    "category": "neutral",
+    "sounds": [
+      "dominatingchaos:death_music_5"
+    ]
+  }
+}

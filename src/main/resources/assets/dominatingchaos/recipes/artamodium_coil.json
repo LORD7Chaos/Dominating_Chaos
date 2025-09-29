@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ATA",
+    "AGA",
+    "ATA"
+  ],
+  "key": {
+    "G": { "item": "minecraft:gold_ingot" },
+    "A": { "item": "dominatingchaos:artamodium_nugget" },
+    "T": { "item": "dominatingchaos:technicium_nugget" }
+  },
+  "result": {
+    "item": "dominatingchaos:artamodium_coil",
+    "count": 1
+  }
+}

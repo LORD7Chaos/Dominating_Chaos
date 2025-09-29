@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "dominatingchaos:unusualium_hammer" },
+    { "item": "minecraft:cobblestone" }
+  ],
+  "result": {
+    "item": "dominatingchaos:broken_cobblestone",
+    "count": 4
+  }
+}

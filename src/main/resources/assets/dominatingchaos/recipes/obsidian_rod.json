@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  O",
+    " O ",
+    "O  "
+  ],
+  "key": {
+    "O": { "item": "minecraft:obsidian" }
+  },
+  "result": {
+    "item": "dominatingchaos:obsidian_rod",
+    "count": 1
+  }
+}

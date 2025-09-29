@@ -1,0 +1,28 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "dominatingchaos:items/sun_blade"
+  },
+    "display": {
+		"thirdperson_righthand": {
+			"rotation": [180, -90, -126],
+			"translation": [ 0.00, 10, 0 ],
+            "scale": [2,2, 1.50 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [180, 90, 126],
+			"translation": [ 0.00, 10, 0 ],
+            "scale": [ 2, 2, 1.50 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 30],
+			"translation": [ 0.00, 10, 1 ],
+            "scale": [ 2, 2, 1.50 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -30],
+			"translation": [ 0.00, 10, 1 ],
+            "scale": [ 2, 2, 1.50 ]
+		}
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TDT",
+    "D#D",
+    "TDT"
+  ],
+  "key": {
+    "#": { "item": "dominatingchaos:acid_bottle" },
+    "D": { "item": "dominatingchaos:physuriym_nugget" },
+    "T": { "item": "dominatingchaos:technicium_nugget" }
+  },
+  "result": {
+    "item": "dominatingchaos:empty_electrical_circuit",
+    "count": 1
+  }
+}

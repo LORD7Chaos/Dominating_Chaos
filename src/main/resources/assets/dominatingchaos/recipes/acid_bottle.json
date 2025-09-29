@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BC ",
+    "FS ",
+    "G  "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:water_bucket"
+    },
+    "C": {
+      "item": "minecraft:flint"
+    },
+    "F": {
+      "item": "minecraft:clay_ball"
+    },
+    "S": {
+      "item": "minecraft:slime_ball"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "dominatingchaos:acid_bottle",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "dominatingchaos:unusualium_hammer" },
+    { "item": "dominatingchaos:durable_stone" }
+  ],
+  "result": {
+    "item": "dominatingchaos:durable_stone_dust",
+    "count": 1
+  }
+}

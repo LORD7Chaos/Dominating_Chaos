@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "CDC",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "dominatingchaos:bottle_of_clear_blood"
+    },
+    "D": {
+      "item": "dominatingchaos:dirty_blood_ingot"
+    }
+  },
+  "result": {
+    "item": "dominatingchaos:clear_blood_ingot",
+    "count": 1
+  }
+}

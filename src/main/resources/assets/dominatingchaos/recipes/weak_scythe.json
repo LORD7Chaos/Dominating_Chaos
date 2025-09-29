@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SDS",
+    "IMI",
+    "SDS"
+  ],
+  "key": {
+    "S": {
+      "item": "dominatingchaos:soul_ingot"
+    },
+    "I": {
+      "item": "dominatingchaos:iron_rod"
+    },
+    "D": {
+      "item": "dominatingchaos:durable_stone"
+    },
+    "M": {
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "result": {
+    "item": "dominatingchaos:weak_scythe",
+    "count": 1
+  }
+}

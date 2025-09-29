@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GAG",
+    "RET",
+    "GAG"
+  ],
+  "key": {
+    "G": { "item": "minecraft:gold_nugget" },
+    "A": { "item": "dominatingchaos:artamodium_nugget" },
+    "T": { "item": "dominatingchaos:electronic_transistor" },
+    "R": { "item": "dominatingchaos:electronic_resistor" },
+    "E": { "item": "dominatingchaos:empty_electrical_circuit" }
+  },
+  "result": {
+    "item": "dominatingchaos:electrical_circuit",
+    "count": 1
+  }
+}

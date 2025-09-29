@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " GT",
+    "GRG",
+    "PG "
+  ],
+  "key": {
+    "R": { "item": "dominatingchaos:redstone_ingot" },
+    "P": { "item": "dominatingchaos:physuriym_ingot" },
+    "T": { "item": "dominatingchaos:technicium_ingot" },
+    "G": { "item": "minecraft:gold_nugget" }
+  },
+  "result": {
+    "item": "dominatingchaos:electronic_transistor",
+    "count": 1
+  }
+}

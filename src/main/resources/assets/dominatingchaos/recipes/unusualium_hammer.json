@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "UUU",
+    "UOU",
+    " O "
+  ],
+  "key": {
+    "O": { "item": "dominatingchaos:obsidian_rod" },
+    "U": { "item": "dominatingchaos:unusualium_ingot" }
+  },
+  "result": {
+    "item": "dominatingchaos:unusualium_hammer",
+    "count": 1
+  }
+}

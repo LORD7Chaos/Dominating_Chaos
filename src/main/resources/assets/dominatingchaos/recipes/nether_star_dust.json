@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "dominatingchaos:unusualium_hammer" },
+    { "item":  "minecraft:nether_star" }
+  ],
+  "result": {
+    "item": "dominatingchaos:nether_star_dust",
+    "count": 4
+  }
+}

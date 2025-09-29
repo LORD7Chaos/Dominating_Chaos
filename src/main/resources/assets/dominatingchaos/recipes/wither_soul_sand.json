@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "121",
+    "232",
+    "121"
+  ],
+  "key": {
+    "1": {
+      "item": "dominatingchaos:wither_bone_piece"
+    },
+    "2": {
+      "item": "dominatingchaos:weak_soul"
+    },
+    "3": {
+      "item": "minecraft:sand",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "dominatingchaos:wither_soul_sand",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+item.chaosdominion.dominator_ingot.name=Dominator Ingot
+item.dominator_helmet.name=§6§lDominator Helmet
+item.dominator_chestplate.name=§6§lDominator Chestplate
+item.dominator_leggings.name=§6§lDominator Leggings
+item.dominator_boots.name=§6§lDominator Boots
+itemGroup.chaos_tab=Chaos Dominion
+item.dominator_helmet.tooltip=§6§lDominator Armor\n§6§lFull set bonuses:\n§4§l- Flight in Survival\n§4§l- Infinite Underwater Breathing\n§4§l- Aura of Domination\n§4§l- +1000 Attack Damage\n§4§l- +100 Maximum Health\n§4§l- Night Vision\n§4§l- No Hunger\n§4§l- Fire Resistance
+item.dominator_chestplate.tooltip=§6§lDominator Armor\n§6§lFull set bonuses:\n§4§l- Flight in Survival\n§4§l- Infinite Underwater Breathing\n§4§l- Aura of Domination\n§4§l- +1000 Attack Damage\n§4§l- +100 Maximum Health\n§4§l- Night Vision\n§4§l- No Hunger\n§4§l- Fire Resistance
+item.dominator_leggings.tooltip=§6§lDominator Armor\n§6§lFull set bonuses:\n§4§l- Flight in Survival\n§4§l- Infinite Underwater Breathing\n§4§l- Aura of Domination\n§4§l- +1000 Attack Damage\n§4§l- +100 Maximum Health\n§4§l- Night Vision\n§4§l- No Hunger\n§4§l- Fire Resistance
+item.dominator_boots.tooltip=§6§lDominator Armor\n§6§lFull set bonuses:\n§4§l- Flight in Survival\n§4§l- Infinite Underwater Breathing\n§4§l- Aura of Domination\n§4§l- +1000 Attack Damage\n§4§l- +100 Maximum Health\n§4§l- Night Vision\n§4§l- No Hunger\n§4§l- Fire Resistance

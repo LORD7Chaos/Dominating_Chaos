@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "dominatingchaos:unusualium_ingot" }
+  ],
+  "result": {
+    "item": "dominatingchaos:unusualium_nugget",
+    "count": 9
+  }
+}
